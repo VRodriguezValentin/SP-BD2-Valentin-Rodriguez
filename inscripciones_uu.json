@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "685c79f763911bbbc9a5ee39",
+    "curso": "Matematica",
+    "fecha_inscripcion": "2025-06-25T22:36:39.734Z",
+    "nota_final": 8,
+    "usuario_id": "6850947bc4e4ee8f4164c99e"
+  },
+  {
+    "_id": "685c79f763911bbbc9a5ee3a",
+    "curso": "Historia",
+    "fecha_inscripcion": "2025-06-25T22:36:39.734Z",
+    "nota_final": 10,
+    "usuario_id": "6850947bc4e4ee8f4164c99f"
+  },
+  {
+    "_id": "685c79f763911bbbc9a5ee3b",
+    "curso": "Fisica",
+    "fecha_inscripcion": "2025-06-25T22:36:39.734Z",
+    "nota_final": 4,
+    "usuario_id": "6850947bc4e4ee8f4164c9a0"
+  },
+  {
+    "_id": "685c79f763911bbbc9a5ee3c",
+    "curso": "Quimica",
+    "fecha_inscripcion": "2025-06-25T22:36:39.734Z",
+    "nota_final": 9,
+    "usuario_id": "6850947bc4e4ee8f4164c9a1"
+  },
+  {
+    "_id": "685c79f763911bbbc9a5ee3d",
+    "curso": "Lengua",
+    "fecha_inscripcion": "2025-06-25T22:36:39.734Z",
+    "nota_final": 10,
+    "usuario_id": "6850947bc4e4ee8f4164c9a2"
+  },
+  {
+    "_id": "685c79f763911bbbc9a5ee3e",
+    "curso": "Biologia",
+    "fecha_inscripcion": "2025-06-25T22:36:39.734Z",
+    "nota_final": 5,
+    "usuario_id": "6850947bc4e4ee8f4164c9a3"
+  },
+  {
+    "_id": "685c79f763911bbbc9a5ee3f",
+    "curso": "Geografia",
+    "fecha_inscripcion": "2025-06-25T22:36:39.734Z",
+    "nota_final": 3,
+    "usuario_id": "6850947bc4e4ee8f4164c9a4"
+  },
+  {
+    "_id": "685c79f763911bbbc9a5ee40",
+    "curso": "Arte",
+    "fecha_inscripcion": "2025-06-25T22:36:39.734Z",
+    "nota_final": 9,
+    "usuario_id": "6850947bc4e4ee8f4164c9a5"
+  },
+  {
+    "_id": "685c79f763911bbbc9a5ee41",
+    "curso": "Musica",
+    "fecha_inscripcion": "2025-06-25T22:36:39.734Z",
+    "nota_final": 9,
+    "usuario_id": "6850947bc4e4ee8f4164c9a6"
+  },
+  {
+    "_id": "685c79f763911bbbc9a5ee42",
+    "curso": "Programacion",
+    "fecha_inscripcion": "2025-06-25T22:36:39.734Z",
+    "nota_final": 2,
+    "usuario_id": "6850947bc4e4ee8f4164c9a7"
+  }
+]

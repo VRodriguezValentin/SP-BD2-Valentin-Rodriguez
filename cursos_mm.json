@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "685c7ff64f3695bec05193a5",
+    "curso_id": "685c7c6a11b17c8222d5c324",
+    "nombre": "Programacion",
+    "estudiante_ids": [
+      "6850947bc4e4ee8f4164c99e",
+      "6850947bc4e4ee8f4164c99f"
+    ]
+  },
+  {
+    "_id": "685c7ff64f3695bec05193a6",
+    "curso_id": "685c7c6a11b17c8222d5c325",
+    "nombre": "Historia",
+    "estudiante_ids": [
+      "6850947bc4e4ee8f4164c99f",
+      "6850947bc4e4ee8f4164c9a0"
+    ]
+  },
+  {
+    "_id": "685c7ff64f3695bec05193a7",
+    "curso_id": "685c7c6a11b17c8222d5c326",
+    "nombre": "Fisica",
+    "estudiante_ids": [
+      "6850947bc4e4ee8f4164c9a0",
+      "6850947bc4e4ee8f4164c9a1"
+    ]
+  },
+  {
+    "_id": "685c7ff64f3695bec05193a8",
+    "curso_id": "685c7c6a11b17c8222d5c327",
+    "nombre": "Lengua",
+    "estudiante_ids": [
+      "6850947bc4e4ee8f4164c9a1",
+      "6850947bc4e4ee8f4164c99e"
+    ]
+  },
+  {
+    "_id": "685c7ff64f3695bec05193a9",
+    "curso_id": "685c7c6a11b17c8222d5c328",
+    "nombre": "Matematica",
+    "estudiante_ids": [
+      "6850947bc4e4ee8f4164c99e",
+      "6850947bc4e4ee8f4164c99f"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "685c7c6a11b17c8222d5c324",
+    "nombre": "Programacion",
+    "profesor": "Emanuel Tevez",
+    "activo": true,
+    "inscripciones": [
+      {
+        "usuario_id": "6850947bc4e4ee8f4164c99e",
+        "fecha": "2025-06-25T22:47:06.480Z",
+        "nota": 9
+      },
+      {
+        "usuario_id": "6850947bc4e4ee8f4164c99f",
+        "fecha": "2025-06-25T22:47:06.480Z",
+        "nota": 8
+      }
+    ]
+  },
+  {
+    "_id": "685c7c6a11b17c8222d5c325",
+    "nombre": "Historia",
+    "profesor": "Juan Perez",
+    "activo": true,
+    "inscripciones": [
+      {
+        "usuario_id": "6850947bc4e4ee8f4164c9a0",
+        "fecha": "2025-06-25T22:47:06.480Z",
+        "nota": 8
+      },
+      {
+        "usuario_id": "6850947bc4e4ee8f4164c9a1",
+        "fecha": "2025-06-25T22:47:06.480Z",
+        "nota": 5
+      }
+    ]
+  },
+  {
+    "_id": "685c7c6a11b17c8222d5c326",
+    "nombre": "Fisica",
+    "profesor": "Albert Einstein",
+    "activo": true,
+    "inscripciones": [
+      {
+        "usuario_id": "6850947bc4e4ee8f4164c9a2",
+        "fecha": "2025-06-25T22:47:06.480Z",
+        "nota": 9
+      },
+      {
+        "usuario_id": "6850947bc4e4ee8f4164c9a3",
+        "fecha": "2025-06-25T22:47:06.480Z",
+        "nota": 8
+      }
+    ]
+  },
+  {
+    "_id": "685c7c6a11b17c8222d5c327",
+    "nombre": "Lengua",
+    "profesor": "Jhon Doe",
+    "activo": true,
+    "inscripciones": [
+      {
+        "usuario_id": "6850947bc4e4ee8f4164c9a4",
+        "fecha": "2025-06-25T22:47:06.480Z",
+        "nota": 4
+      },
+      {
+        "usuario_id": "6850947bc4e4ee8f4164c9a5",
+        "fecha": "2025-06-25T22:47:06.480Z",
+        "nota": 3
+      }
+    ]
+  },
+  {
+    "_id": "685c7c6a11b17c8222d5c328",
+    "nombre": "Matematica",
+    "profesor": "Julieta Lopez",
+    "activo": true,
+    "inscripciones": [
+      {
+        "usuario_id": "6850947bc4e4ee8f4164c9a6",
+        "fecha": "2025-06-25T22:47:06.480Z",
+        "nota": 6
+      },
+      {
+        "usuario_id": "6850947bc4e4ee8f4164c9a7",
+        "fecha": "2025-06-25T22:47:06.480Z",
+        "nota": 5
+      }
+    ]
+  }
+]
